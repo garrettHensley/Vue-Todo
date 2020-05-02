@@ -1,4 +1,4 @@
-# twitterthing
+# Vue Todo
 
 ## Project setup
 ```
